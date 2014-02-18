@@ -1,0 +1,47 @@
+.offset2 div {
+	margin-left: 60px; 
+	font-weight: bold; 
+	font-size: 150%;
+
+}
+
+.fontEmulogic {
+	margin-left: 60px; 
+	font-family: Emulogic;
+	src: url(emulogic.ttf);
+}
+
+
+.fontHand {
+	font-family: Hand;
+	src: url(Hand.ttf);
+}
+
+.hand200 {
+	margin-left: 60px; 
+	font-size: 200%;
+	font-family: Hand;
+	src: url(Hand.ttf);
+}
+
+.fontShanghai1 {
+	font-weight: bold; 
+	font-size: 250%;
+    font-family: shanghai;
+	src: url(shanghai.ttf);
+}
+
+.fontShanghai2 {
+	margin-left: 35px;
+	font-weight: bold;
+    font-size: 200%;
+    font-family: shanghai;
+	src: url(shanghai.ttf);
+}
+
+.offset {
+	margin-left: 60px; 
+	font-weight: bold; 
+	font-size: 150%;
+
+}
